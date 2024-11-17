@@ -51,6 +51,7 @@ Generic Netlist :
 Technology mapped netlist (Using 45 nm pdk of typical process) :
 <br>
 <img width="197" alt="Screenshot 2024-11-17 at 5 33 41 PM" src="https://github.com/user-attachments/assets/7601cd35-e87d-4aab-a7a0-8cd7198f2c19">
+<br>
 The area estimated using the information provided in the pdk is - 
 <br>
 <img width="434" alt="Screenshot 2024-11-17 at 5 34 19 PM" src="https://github.com/user-attachments/assets/c8c4c31d-8d22-468a-b602-d43cf8d38836">
@@ -64,6 +65,7 @@ Generic Netlist :
 Technology mapped netlist (Using 45 nm pdk of typical process) :
 <br>
 <img width="318" alt="Screenshot 2024-11-17 at 5 40 15 PM" src="https://github.com/user-attachments/assets/0dfec18b-906b-465d-99c1-c2a6bddc8bc7">
+<br>
 The area estimated using the information provided in the pdk is - 
 <br>
 <img width="424" alt="Screenshot 2024-11-17 at 5 40 51 PM" src="https://github.com/user-attachments/assets/705b522b-bef8-49ae-8687-959e95adea69">
@@ -77,6 +79,7 @@ Generic Netlist :
 Technology mapped netlist (Using 45 nm pdk of typical process) :
 <br>
 <img width="36" alt="Screenshot 2024-11-17 at 5 49 06 PM" src="https://github.com/user-attachments/assets/d2b97bc7-86e6-42a8-a70f-2dab68691ff8">
+<br>
 The area estimated using the information provided in the pdk is - 
 <br>
 <img width="461" alt="Screenshot 2024-11-17 at 5 49 54 PM" src="https://github.com/user-attachments/assets/6c8d61e6-26de-4f16-9855-d9a5260e2d1c">
@@ -90,6 +93,7 @@ Generic Netlist :
 Technology mapped netlist (Using 45 nm pdk of typical process) :
 <br>
 <img width="73" alt="Screenshot 2024-11-17 at 5 54 40 PM" src="https://github.com/user-attachments/assets/e69a49e9-07df-45fe-8a15-0d73672735ab">
+<br>
 The area estimated using the information provided in the pdk is - 
 <br>
 <img width="449" alt="Screenshot 2024-11-17 at 5 58 10 PM" src="https://github.com/user-attachments/assets/160faba3-e723-4346-913d-536f589cb36d">
@@ -103,6 +107,7 @@ Generic Netlist :
 Technology mapped netlist (Using 45 nm pdk of typical process) :
 <br>
 <img width="12" alt="Screenshot 2024-11-17 at 6 00 52 PM" src="https://github.com/user-attachments/assets/daf8ad47-a12c-4f41-a5ad-5890949e9109">
+<br>
 The area estimated using the information provided in the pdk is - 
 <br>
 <img width="434" alt="Screenshot 2024-11-17 at 6 03 14 PM" src="https://github.com/user-attachments/assets/02540366-96a9-4e59-ae8b-bff078d5c5b5">
