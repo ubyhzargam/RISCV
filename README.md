@@ -1,3 +1,12 @@
+# RISCV basic core - 
+I will be implementing this block using Verilog HDL. I won't be implementing all the R-type instructions. I will be just implementing a few instructions and other instructions are implmented in the same way. 
+![WhatsApp Image 2024-11-18 at 22 35 06](https://github.com/user-attachments/assets/3633f2df-be18-4ac4-bb77-2cb16d79c519)
+
+
+
+
+
+
 # I will be synthesizing the codes below and estimating the area of each block using Yosys 
 
 # 1. Program counter -
