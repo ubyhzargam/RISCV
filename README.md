@@ -15,12 +15,13 @@ Generic Netlist :
 <img width="1470" alt="Screenshot 2024-11-17 at 4 55 12 PM" src="https://github.com/user-attachments/assets/f5ec38dc-6f0e-4772-b14b-2b3abc0b2b12">
 <br>
 Technology mapped netlist (Using 45 nm pdk of typical process) :
+<img width="282" alt="Screenshot 2024-11-21 at 10 39 50 PM" src="https://github.com/user-attachments/assets/467a060f-557a-4474-a4e1-c17c02e7792b">
 <br>
-<img width="35" alt="Screenshot 2024-11-17 at 4 59 10 PM" src="https://github.com/user-attachments/assets/b9b02389-bfce-4a43-96dd-56f5b0eba879">
 <br>
 The area estimated using the information provided in the pdk is - 
 <br>
-<img width="462" alt="Screenshot 2024-11-17 at 5 00 25 PM" src="https://github.com/user-attachments/assets/d1680fdf-f6f2-49b2-b7d5-8f67fd8b4afe">
+<img width="472" alt="Screenshot 2024-11-21 at 10 40 28 PM" src="https://github.com/user-attachments/assets/a0666ed9-2bc5-43d6-b002-0fc2ceb26c60">
+
 <br><br>
 
 # 2. PC_adder -
@@ -30,11 +31,13 @@ Generic Netlist :
 <br>
 Technology mapped netlist (Using 45 nm pdk of typical process) :
 <br>
-<img width="22" alt="Screenshot 2024-11-17 at 5 10 52 PM" src="https://github.com/user-attachments/assets/b8fe76f4-fe9f-41db-9b5e-6ead1643cbb2">
+<img width="943" alt="Screenshot 2024-11-21 at 10 41 30 PM" src="https://github.com/user-attachments/assets/d4d8efe0-b37c-4f18-b1fa-8c26286be555">
 <br>
 The area estimated using the information provided in the pdk is - 
 <br>
-<img width="440" alt="Screenshot 2024-11-17 at 5 11 44 PM" src="https://github.com/user-attachments/assets/c5f2da88-36ab-480c-91ab-a95d4d556628">
+<img width="494" alt="Screenshot 2024-11-21 at 10 42 03 PM" src="https://github.com/user-attachments/assets/c1796624-db90-45c0-acd1-e29d63e1421c">
+
+
 <br><br>
 
 # 3. MUX -
@@ -45,11 +48,13 @@ Generic Netlist :
 <br>
 Technology mapped netlist (Using 45 nm pdk of typical process) :
 <br>
-<img width="58" alt="Screenshot 2024-11-17 at 5 21 54 PM" src="https://github.com/user-attachments/assets/08ab0cc1-e691-49c7-b471-a90ebb98d0d9">
+<img width="131" alt="Screenshot 2024-11-21 at 10 42 51 PM" src="https://github.com/user-attachments/assets/e8ca1e53-4625-4672-833c-48b892298139">
+
 <br>
 The area estimated using the information provided in the pdk is - 
 <br>
-<img width="434" alt="Screenshot 2024-11-17 at 5 23 05 PM" src="https://github.com/user-attachments/assets/0d4ed35b-4882-4046-ad9f-c5eefd46ec60">
+<img width="438" alt="Screenshot 2024-11-21 at 10 43 15 PM" src="https://github.com/user-attachments/assets/f000a697-586b-4cc7-b22b-595ed71e644f">
+
 <br><br>
 
 # 4. Main decoder - 
@@ -59,11 +64,11 @@ Generic Netlist :
 <br>
 Technology mapped netlist (Using 45 nm pdk of typical process) :
 <br>
-<img width="197" alt="Screenshot 2024-11-17 at 5 33 41 PM" src="https://github.com/user-attachments/assets/7601cd35-e87d-4aab-a7a0-8cd7198f2c19">
+<img width="1051" alt="Screenshot 2024-11-21 at 10 43 49 PM" src="https://github.com/user-attachments/assets/8da7d415-a70e-4fec-a14b-778273aa085e">
 <br>
 The area estimated using the information provided in the pdk is - 
 <br>
-<img width="434" alt="Screenshot 2024-11-17 at 5 34 19 PM" src="https://github.com/user-attachments/assets/c8c4c31d-8d22-468a-b602-d43cf8d38836">
+<img width="440" alt="Screenshot 2024-11-21 at 10 44 12 PM" src="https://github.com/user-attachments/assets/d06a5623-f187-4867-bb8a-1f819beef42f">
 <br><br>
 
 # 5. ALU decoder -
@@ -73,11 +78,14 @@ Generic Netlist :
 <br>
 Technology mapped netlist (Using 45 nm pdk of typical process) :
 <br>
-<img width="318" alt="Screenshot 2024-11-17 at 5 40 15 PM" src="https://github.com/user-attachments/assets/0dfec18b-906b-465d-99c1-c2a6bddc8bc7">
+<img width="1462" alt="Screenshot 2024-11-21 at 10 46 35 PM" src="https://github.com/user-attachments/assets/6a61d96a-1b68-4aa3-a9e4-6558e3b09ca2">
+
+
 <br>
 The area estimated using the information provided in the pdk is - 
 <br>
-<img width="424" alt="Screenshot 2024-11-17 at 5 40 51 PM" src="https://github.com/user-attachments/assets/705b522b-bef8-49ae-8687-959e95adea69">
+<img width="509" alt="Screenshot 2024-11-21 at 10 46 54 PM" src="https://github.com/user-attachments/assets/b29cb53f-c8c0-4c1a-a737-10ec6966946a">
+
 <br><br>
 
 # 6. Register file -
@@ -101,11 +109,13 @@ Generic Netlist :
 <br>
 Technology mapped netlist (Using 45 nm pdk of typical process) :
 <br>
-<img width="73" alt="Screenshot 2024-11-17 at 5 54 40 PM" src="https://github.com/user-attachments/assets/e69a49e9-07df-45fe-8a15-0d73672735ab">
+<img width="352" alt="Screenshot 2024-11-21 at 10 48 22 PM" src="https://github.com/user-attachments/assets/58795d2a-5033-4879-82c2-858edba3b040">
+
 <br>
 The area estimated using the information provided in the pdk is - 
 <br>
-<img width="449" alt="Screenshot 2024-11-17 at 5 58 10 PM" src="https://github.com/user-attachments/assets/160faba3-e723-4346-913d-536f589cb36d">
+<img width="437" alt="Screenshot 2024-11-21 at 10 48 39 PM" src="https://github.com/user-attachments/assets/d2948943-815c-47e9-b491-227fbda81583">
+
 <br><br>
 
 # 8. ALU - 
@@ -115,11 +125,12 @@ Generic Netlist :
 <br>
 Technology mapped netlist (Using 45 nm pdk of typical process) :
 <br>
-<img width="12" alt="Screenshot 2024-11-17 at 6 00 52 PM" src="https://github.com/user-attachments/assets/daf8ad47-a12c-4f41-a5ad-5890949e9109">
+<img width="815" alt="Screenshot 2024-11-21 at 10 45 10 PM" src="https://github.com/user-attachments/assets/a265bad5-7ac7-4826-8e05-434e86f7e37a">
 <br>
 The area estimated using the information provided in the pdk is - 
 <br>
-<img width="434" alt="Screenshot 2024-11-17 at 6 03 14 PM" src="https://github.com/user-attachments/assets/02540366-96a9-4e59-ae8b-bff078d5c5b5">
+<img width="479" alt="Screenshot 2024-11-21 at 10 45 55 PM" src="https://github.com/user-attachments/assets/08b6ddbd-69d1-45c7-a0d7-a355a958c3c1">
+
 <br><br>
 
 
