@@ -14,7 +14,7 @@ I will be implementing this block using Verilog HDL. I won't be implementing all
 Generic Netlist : 
 <img width="1470" alt="Screenshot 2024-11-17 at 4 55 12 PM" src="https://github.com/user-attachments/assets/f5ec38dc-6f0e-4772-b14b-2b3abc0b2b12">
 <br>
-Technology mapped netlist (Using 45 nm pdk of typical process) :
+Technology mapped netlist (Using 45 nm pdk of typical process) :<br>
 <img width="282" alt="Screenshot 2024-11-21 at 10 39 50 PM" src="https://github.com/user-attachments/assets/467a060f-557a-4474-a4e1-c17c02e7792b">
 <br>
 <br>
